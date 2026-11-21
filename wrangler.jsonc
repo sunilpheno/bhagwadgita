@@ -1,0 +1,10 @@
+{
+  "name": "bhagwadgita",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-19",
+  "observability": { "enabled": true },
+  "assets": { "directory": "./public", "binding": "ASSETS" },
+  "kv_namespaces": [
+    { "binding": "USERS", "id": "8bfb0156030a43ed947de01385969d88" }
+  ]
+}
